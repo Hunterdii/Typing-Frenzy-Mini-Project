@@ -1,0 +1,3 @@
+-> go to phpmyadmin
+-> select import
+-> chose the database file given
